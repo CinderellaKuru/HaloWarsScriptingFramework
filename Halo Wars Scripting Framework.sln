@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halo Wars Scripting Framework", "Halo Wars Scripting Framework.csproj", "{8F3F5BD7-97EB-49AD-B7A5-70DE781C8935}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloWarsScriptingFrameworkTest", "..\HaloWarsScriptingFrameworkTest\HaloWarsScriptingFrameworkTest.csproj", "{84738B24-D72E-4078-9495-B3840CA34703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8F3F5BD7-97EB-49AD-B7A5-70DE781C8935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3F5BD7-97EB-49AD-B7A5-70DE781C8935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3F5BD7-97EB-49AD-B7A5-70DE781C8935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84738B24-D72E-4078-9495-B3840CA34703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84738B24-D72E-4078-9495-B3840CA34703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84738B24-D72E-4078-9495-B3840CA34703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84738B24-D72E-4078-9495-B3840CA34703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
