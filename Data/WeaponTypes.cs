@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace HaloWarsScriptingFramework.Data
+namespace HaloWarsScriptingFramework.Data.WeaponTypes
 {
     public class WeaponTypes(List<WeaponType> weaponTypes)
     {

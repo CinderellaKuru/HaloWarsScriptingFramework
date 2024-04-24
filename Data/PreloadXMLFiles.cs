@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace HaloWarsScriptingFramework.Data
+namespace HaloWarsScriptingFramework.Data.PreloadXMLFiles
 {
     public class PreloadXMLFiles(List<File> files)
     {

@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace HaloWarsScriptingFramework.Data
+namespace HaloWarsScriptingFramework.Data.TipsList
 {
     public class TipList(List<Tip> tips)
     {
